@@ -1,0 +1,18 @@
+body {
+color: black;
+background-color: darkcyan;
+}
+.vloott{
+float: right;
+}  
+
+
+.vloott1{
+	float: left;
+	margin: 10px;
+}
+
+.vloott3{
+	float: left;
+	margin-left: 10px
+}
